@@ -12,4 +12,7 @@ relative_links:
   collections: true
 github:
   is_project_page: false
-author: Hovnatan Karapetyan
+author:
+  name: Hovnatan Karapetyan
+  email: hovnatan@superannotate.com
+title: Public repositories for [annotate.online](https://annotate.online) and [superannotate.ai](https://superannotate.ai)
