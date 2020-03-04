@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  skin: sunrise
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
