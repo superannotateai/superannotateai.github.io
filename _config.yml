@@ -8,8 +8,9 @@ description: > # this means to ignore newlines until "show_excerpts:"
 theme: minima
 minima:
   skin: sunrise
-  twitter: superannotate
-  github:  superannotateai
+  social_links:
+    twitter: superannotate
+    github:  superannotateai
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
