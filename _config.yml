@@ -1,18 +1,13 @@
+title: Public repositories for annotate.online and superannotate.ai
+author:
+  name: Hovnatan Karapetyan
+  email: hovnatan@superannotate.com
+description: > # this means to ignore newlines until "show_excerpts:"
+  Public open source components' repositories for annotate.online and superannotate.ai.
+
 theme: minima
 minima:
   skin: sunrise
 plugins:
-  - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-default-layout
-relative_links:
-  enabled: true
-  collections: true
-github:
-  is_project_page: false
-author:
-  name: Hovnatan Karapetyan
-  email: hovnatan@superannotate.com
-title: Public repositories for annotate.online and superannotate.ai
