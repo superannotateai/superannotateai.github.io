@@ -1,11 +1,12 @@
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
 relative_links:
   enabled: true
   collections: true
 github:
   is_project_page: false
-author:
-  twitter: hovnatan
+author: Hovnatan Karapetyan
