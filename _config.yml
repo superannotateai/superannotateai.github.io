@@ -7,3 +7,5 @@ relative_links:
   collections: true
 github:
   is_project_page: false
+author:
+  twitter: hovnatan
